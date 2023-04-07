@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100;400;500&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sarabun', sans-serif;
+}
+
+
+.bannerbk{
+    display: block;
+    width: 100%;
+    height: auto;
+    border-bottom: 10pt solid #eb3b7c;
+    text-align: center;
+}
+.bannerbk img {
+    width: 100%;
+    height: auto;
+}
+.manu{
+    margin-top: 2rem;
+
+}
+
+.headpage{
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 0.5rem 0;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    margin-bottom: 3rem;
+    background-color: #eb3b7c;
+    color: aliceblue;
+}
+
+.img{
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.img img{
+    width: 100%;
+    height: auto;
+}
+.box{
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #afabab;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+
+.textQ {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+
+.radar{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+
+.logoPic {
+    margin-top: 5rem;
+}
+
+
+.logoimg{
+    width: 40px;
+    height: auto;
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-size: 10px;
+}
+
+.logoimgtext{
+    font-size: 13px;
+}
+
+.admintext{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    text-align: right;
+}
+
+.headS{
+    font-size: 20px;
+    font-weight: 500;
+    color: #eb3b7c;
+    margin-bottom: 1rem;
+}
+
+.imgS{
+    display: block;
+    width: 120px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.imgS img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+
+}
+.centralest{
+    text-align: center;
+    
+
+}
+.footer{
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: rgb(194, 193, 191);
+    color: black;
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 13px;
+    padding: 1rem;
+}
+
+.backPage {
+    display: block;
+    width: 100%;
+    height: auto;
+text-align: right;
+}
+@media only screen and (max-width: 1279px) {
+    .radar{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        display: block;
+        margin: auto;
+        margin-bottom: 1rem;
+    }
+    
+    .logoPic {
+        margin-top: 1rem;
+    }
+  }
+
+
+
